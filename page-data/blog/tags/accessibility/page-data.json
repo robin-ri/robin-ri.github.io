@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/accessibility/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Accessible Clickable Cards","description":"Clickable cards with multiple child links","date":"2021-04-21T00:00:00.000Z","slug":"/blog/clickable-cards","tags":["Accessibility","CSS"]}}}]}},"pageContext":{"tag":"Accessibility"}},
+    "staticQueryHashes": ["2218882191","3303540520","372037392","3825832676","4067035880"]}
